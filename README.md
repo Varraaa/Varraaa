@@ -42,13 +42,13 @@
 ### GitHub Activity Overview
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
+  <!-- GitHub Stats Card (Dengan Rank Lingkaran Nilai A+) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
   
   <br /><br />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
 
   <br /><br />
 
