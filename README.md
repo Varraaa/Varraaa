@@ -6,6 +6,7 @@
   <p align="center">
     <b>A passionate Fullstack Web Developer focused on building clean, efficient, and responsive web applications.</b>
   </p>
+
 </div>
 
 ---
@@ -27,6 +28,7 @@
     <td><b>Framework</b></td>
     <td>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     </td>
   </tr>
   <tr>
@@ -35,29 +37,35 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
   </tr>
+  <tr>
+    <td><b>Deployment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
 </table>
 
 ---
 
 ### GitHub Activity Overview
 
-### GitHub Activity Overview
-
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
   
   <br /><br />
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
 
   <br /><br />
 
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varraaa&theme=synthwave&hide_border=true&ring=bf5af2&fire=bf5af2&currStreakLabel=bf5af2" alt="GitHub Streak" width="55%" />
-</div>
 
-> *Silence the noise with execution.* 
+  <br /><br />
 
+  <blockquote>
+    <em>"Silence the noise with execution."</em>
+  </blockquote>
 </div>
