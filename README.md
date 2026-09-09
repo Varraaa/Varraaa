@@ -14,7 +14,6 @@
     <a href="https://instagram.com/_vaarra">
       <img src="https://img.shields.io/badge/Instagram-@_vaarra-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-007ACC?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
 </div>
