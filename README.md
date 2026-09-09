@@ -6,21 +6,11 @@
   <p align="center">
     <b>A passionate Fullstack Web Developer focused on building clean, efficient, and responsive web applications.</b>
   </p>
-
-  <p align="center">
-    <a href="mailto:mrafi.hiba@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mrafi.hiba%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://instagram.com/_vaarra">
-      <img src="https://img.shields.io/badge/Instagram-@_vaarra-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-
 </div>
 
 ---
 
-### 🚀 Tech Stack & Tools
+### Tech Stack & Tools
 
 <table>
   <tr>
