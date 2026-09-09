@@ -47,7 +47,7 @@
 
 ---
 
-GitHub Activity Overview
+### GitHub Activity Overview
 <div align="center"> <!-- GitHub Stats Card --> <img src="https://github-readme-stats-varra.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
 
 <br /><br />
