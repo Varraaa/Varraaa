@@ -47,26 +47,18 @@
 
 ---
 
-### GitHub Activity Overview
+GitHub Activity Overview
+<div align="center"> <!-- GitHub Stats Card --> <img src="https://github-readme-stats-varra.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
 
-<div align="center">
-  <!-- GitHub Stats Card (sudah termasuk grade A+ dsb, karena show_icons=true) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
+<br /><br />
 
-  <br /><br />
+<!-- Top Languages Card --> <img src="https://github-readme-stats-varra.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
+<br /><br />
 
-  <br /><br />
+<!-- Streak Stats Card --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varraaa&theme=synthwave&hide_border=true&ring=bf5af2&fire=bf5af2&currStreakLabel=bf5af2" alt="GitHub Streak" width="55%" />
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varraaa&theme=synthwave&hide_border=true&ring=bf5af2&fire=bf5af2&currStreakLabel=bf5af2" alt="GitHub Streak" width="55%" />
+<br /><br />
 
-  <br /><br />
-
-  <blockquote>
-    <em>"Silence the noise with execution."</em>
-  </blockquote>
-</div>
+<blockquote> <em>"Silence the noise with execution."</em> </blockquote> </div>
 
