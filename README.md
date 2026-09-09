@@ -66,6 +66,6 @@
 
 <div align="center">
 
-> *"Fuck the rest, be the best."* ⚡
+> *Silence the noise with execution.* 
 
 </div>
