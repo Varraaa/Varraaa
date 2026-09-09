@@ -41,16 +41,20 @@
 
 ### GitHub Activity Overview
 
+### GitHub Activity Overview
+
 <div align="center">
-  <div align="center">
-  <img src="https://stats.justin0304.workers.dev/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
   
   <br /><br />
 
-  <img src="https://stats.justin0304.workers.dev/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
 
   <br /><br />
 
+  <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varraaa&theme=synthwave&hide_border=true&ring=bf5af2&fire=bf5af2&currStreakLabel=bf5af2" alt="GitHub Streak" width="55%" />
 </div>
 
