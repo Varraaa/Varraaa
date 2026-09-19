@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,24,38,007ACC,6366F1&height=180&section=header&text=Muhammad%20Rafi%20Hibatulloh&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Fullstack%20Web%20Developer&descFontSize=20&descAlignY=65&descAlign=50" width="100%" alt="Header" />
 
   <p align="center">
-    <b>A passionate Fullstack Web Developer focused on building clean, efficient, and responsive web applications.</b>
+    <b>A Fullstack Web Developer building clean and responsive web applications.</b>
   </p>
 
 </div>
