@@ -58,7 +58,7 @@
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" align="center" alt="VS Code Logo" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="90" align="center" alt="VS Code Logo" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/google-antigravity.png" height="26" align="center" alt="Antigravity Logo" /><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge" alt="Antigravity" />
       &nbsp;
