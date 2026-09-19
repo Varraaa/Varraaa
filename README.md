@@ -90,8 +90,8 @@
 <br /><br />
 
 <!-- Quote (centered) -->
-<p align="center">
-  <em>"Silence the noise with execution"</em>
-</p>
+<h4 align="center">
+  <i>"Silence the noise with execution."</i>
+</h4>
 
 </div>
