@@ -55,17 +55,6 @@
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
   </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" align="center" alt="VS Code Logo" /><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/google-antigravity.png" height="20" align="center" alt="Antigravity Logo" /><img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge" alt="Antigravity" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </td>
-  </tr>
 </table>
 
 ---
