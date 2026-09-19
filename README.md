@@ -91,7 +91,7 @@
 
 <!-- Quote (centered) -->
 <p align="center">
-  <em>"Silence the noise with execution."</em>
+  <em>"Silence the noise with execution"</em>
 </p>
 
 </div>
