@@ -40,4 +40,58 @@
   <tr>
     <td><b>Backend Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-bad
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Hosting & Deployment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varraaa/Varraaa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varraaa/Varraaa/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Varraaa/Varraaa/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### GitHub Activity Overview
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats-varra.vercel.app/api?username=Varraaa&show_icons=true&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff&icon_color=bf5af2&count_private=true" alt="Varraaa GitHub Stats" width="52%" />
+
+<br /><br />
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats-varra.vercel.app/api/top-langs/?username=Varraaa&layout=compact&theme=synthwave&hide_border=true&title_color=bf5af2&text_color=ffffff" alt="Top Languages" width="48%" />
+
+<br /><br />
+
+<!-- Streak Stats Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varraaa&theme=synthwave&hide_border=true&ring=bf5af2&fire=bf5af2&currStreakLabel=bf5af2" alt="GitHub Streak" width="55%" />
+
+<br /><br />
+
+<!-- Quote (centered) -->
+<p align="center">
+  <em>"Silence the noise with execution."</em>
+</p>
+
+</div>
