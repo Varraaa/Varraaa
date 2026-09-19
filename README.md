@@ -88,10 +88,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varraaa&theme=synthwave&hide_border=true&ring=bf5af2&fire=bf5af2&currStreakLabel=bf5af2" alt="GitHub Streak" width="55%" />
 
 <br /><br />
+</div>
 
 <!-- Quote (centered) -->
 <h4 align="center">
   <i>"Silence the noise with execution."</i>
 </h4>
-
-</div>
